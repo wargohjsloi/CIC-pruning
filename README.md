@@ -55,14 +55,14 @@ We provide pretrained models on CIFAR100-LT and ImageNet-LT, and example models 
 
 | Name            | Acc  | Param (M) | MACs (G) | url |
 |-----------------|------|-----------|----------| --- |
-| CIFAR100-IF100  | 56.0 | 7.45      | 1.10     |[model](https://github.com/VainF/Diff-Pruning/releases/download/v0.0.1/ddpm_ema_cifar10.zip) |
-| CIC (40%)       | 53.4 | 4.72      | 0.64     | [model](https://dl.fbaipublicfiles.com/deit/deit_small_patch16_224-cd65a155.pth) |
-| CIFAR100-IF50   | 60.8 | 7.45      | 1.10     | [model](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) |
-| CIC (40%)       | 55.6 | 4.36      | 0.76     | [model](https://dl.fbaipublicfiles.com/deit/deit_tiny_distilled_patch16_224-b40b3cf7.pth) |
-| CIFAR100-IF10   | 71.0 | 7.45      | 1.10     | [model](https://dl.fbaipublicfiles.com/deit/deit_small_distilled_patch16_224-649709d9.pth) |
-| CIC (40%)       | 68.0 | 4.71      | 0.63     |[model](https://github.com/VainF/Diff-Pruning/releases/download/v0.0.1/ddpm_ema_cifar10.zip) |
-| ImageNet-LT     | 58.2 | 25.02     | 5.58     |[model](https://github.com/VainF/Diff-Pruning/releases/download/v0.0.1/ddpm_ema_cifar10.zip) |
-| CIC (40%)       | 56.8 | 19.62     | 3.31     |[model](https://github.com/VainF/Diff-Pruning/releases/download/v0.0.1/ddpm_ema_cifar10.zip) |
+| CIFAR100-IF100  | 56.0 | 7.45      | 1.10     |[model](https://drive.google.com/file/d/1jMadPfMW1vy0xCs32DUgfgRwX35ODSBh/view?usp=sharing) |
+| CIC (40%)       | 53.4 | 4.72      | 0.64     |[model](https://drive.google.com/file/d/1Rp7PK3SfRPOS3HzSySoElkLRyl_EGMXR/view?usp=sharing) |
+| CIFAR100-IF50   | 60.8 | 7.45      | 1.10     |[model](https://drive.google.com/file/d/1OH_wv7_cLYdKfexK-iulqv8sKrJ_ypNB/view?usp=sharing) |
+| CIC (40%)       | 55.6 | 4.36      | 0.76     |[model](https://drive.google.com/file/d/14Bpupnanv5h8z8s5GLzul4HluTXQ5wpu/view?usp=sharing) |
+| CIFAR100-IF10   | 71.0 | 7.45      | 1.10     |[model](https://drive.google.com/file/d/1pfhVOua-yhY5dRMAm0klUDKUi5yTSjpJ/view?usp=sharing) |
+| CIC (40%)       | 68.0 | 4.71      | 0.63     |[model](https://drive.google.com/file/d/1oZjIWTPPj0YB-U83e-SgSGBEhbnjGk8l/view?usp=sharing) |
+| ImageNet-LT     | 58.2 | 25.02     | 5.58     |[model](https://drive.google.com/file/d/1p303eavZpH5pAmLE8IcpuBdw_JzUsI6W/view?usp=sharing) |
+| CIC (40%)       | 56.8 | 19.62     | 3.31     |[model](https://drive.google.com/file/d/1o75E0GmrP2ge5b_lENSdocohmM0IqgLk/view?usp=sharing) |
 
 
 
